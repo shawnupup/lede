@@ -52,7 +52,7 @@ jobs:
           git clone https://github.com/brokeld/luci-app-koolproxyR.git
           git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git
           git clone https://github.com/rosywrt/luci-theme-rosy.git
-          git clone https://github.com/zfl9/chinadns-ng.git
+          git clone https://github.com/pexcn/openwrt-chinadns-ng.git package/chinadns-ng
                  
            
           # sudo mkdir -p -m 777 /mnt/openwrt/bin /mnt/openwrt/build_dir/host /mnt/openwrt/build_dir/hostpkg /mnt/openwrt/dl /mnt/openwrt/feeds /mnt/openwrt/staging_dir
